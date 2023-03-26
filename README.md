@@ -5,7 +5,7 @@ Implement Frameworks the DevOps way By Simplilearn E-Commerce-Website-Sporty Sho
 Sporty Shoes:
 This document contains sections for: • Project Description • Core concepts used in project • Flow of the Application. • Project Users Stories : ( Agile and Scrum ) • Git Repositories • How to run project • Demonstrating the product capabilities, appearance, and user interactions. • Unique Selling Points of the Application • Conclusions
 
-The code for this project is hosted at : 
+The code for this project is hosted at : https://github.com/AKoharr/FSD-E-commerce-sporty-shoes
 
 The project is developed by Annu Kohar
 
